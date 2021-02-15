@@ -1,0 +1,10 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\bin\Debug\Exe4_ContaBancaria.exe.config
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\bin\Debug\Exe4_ContaBancaria.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\bin\Debug\Exe4_ContaBancaria.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.Properties.Resources.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.csproj.GenerateResource.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_ContaBancaria\obj\Debug\Exe4_ContaBancaria.frmContaBancaria.resources

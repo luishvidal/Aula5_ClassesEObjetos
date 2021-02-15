@@ -1,0 +1,10 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\bin\Debug\Exe4_Funcionarios.exe.config
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\bin\Debug\Exe4_Funcionarios.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\bin\Debug\Exe4_Funcionarios.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.frmFuncionarios.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.Properties.Resources.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.csproj.GenerateResource.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula5_ClassesObjetos\Exe4_Funcionarios\obj\Debug\Exe4_Funcionarios.pdb
